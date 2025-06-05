@@ -11,9 +11,7 @@ export const zhCN_menu = {
 
 	'app.menu.list': '列表页',
 	'app.menu.list.search': '搜索列表',
-	'app.menu.list.inquire': '查询表格',
 	'app.menu.list.standard': '标准列表',
-	'app.menu.list.card': '卡片列表',
 
 	'app.detail': '详情页',
 	'app.detail.basic': '基础详情页',

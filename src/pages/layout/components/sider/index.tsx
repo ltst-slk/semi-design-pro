@@ -85,7 +85,7 @@ const Index: FC = () => {
 				style={{ maxWidth: 220, height: '100%' }}
 				header={{
 					logo: <IconSemiLogo style={{ fontSize: 36 }} />,
-					text: 'Semi Admin'
+					text: 'Semi Design Pro'
 				}}
 				footer={{
 					collapseButton: true

@@ -6,9 +6,9 @@ const { Section, Input, DatePicker, Select, Switch, InputNumber, Checkbox, Radio
 const Index: React.FC = () => {
 	return (
 		<div className="default-container">
-			<Form style={{ width: 560 }}>
+			<Form style={{ padding: 10, width: '100%' }}>
 				<Section text={'基本信息'}>
-					<Input field="name" label="考试名称" initValue="TCS任务平台使用" style={{ width: 560 }} />
+					<Input field="name" label="考试名称" initValue="考试平台使用" style={{ width: 560 }} />
 				</Section>
 				<Section text={'合格标准'}>
 					<div style={{ display: 'flex' }}>

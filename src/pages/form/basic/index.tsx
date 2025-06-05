@@ -90,7 +90,7 @@ const treeData = [
 
 const Index: React.FC = () => {
 	return (
-		<div className="anlyanis-container-second-card default-container">
+		<div className="default-container">
 			<Form initValues={initValues} style={{ padding: 10, width: '100%' }} onValueChange={(v) => v}>
 				<Section text={'基本信息'}>
 					<Row>

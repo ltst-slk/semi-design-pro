@@ -11,9 +11,7 @@ export const enGB_menu = {
 
 	'app.menu.list': 'List',
 	'app.menu.list.search': 'Search List',
-	'app.menu.list.inquire': 'Inquire Table',
 	'app.menu.list.standard': 'Standard List',
-	'app.menu.list.card': 'Card List',
 
 	'app.detail': 'Detail',
 	'app.detail.basic': 'Basic Detail',

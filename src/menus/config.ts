@@ -73,19 +73,9 @@ const MENU_CONFIG: MenuItem[] = [
 				path: '/list/search'
 			},
 			{
-				itemKey: '3-2',
-				text: 'app.menu.list.inquire',
-				path: '/list/inquire'
-			},
-			{
 				itemKey: '3-3',
 				text: 'app.menu.list.standard',
 				path: '/list/standard'
-			},
-			{
-				itemKey: '3-4',
-				text: 'app.menu.list.card',
-				path: '/list/card'
 			}
 		]
 	},
