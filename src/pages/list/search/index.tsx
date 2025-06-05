@@ -164,7 +164,6 @@ const Index: React.FC = () => {
 					</Row>
 				</Form>
 			</div>
-			<div></div>
 			<Divider align="left" />
 			<div style={{ margin: '20px' }}>
 				<Space>

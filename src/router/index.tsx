@@ -15,9 +15,7 @@ const FormStep = lazy(() => import('@src/pages/form/step'))
 const FormAdvanced = lazy(() => import('@src/pages/form/advanced'))
 
 const ListSearch = lazy(() => import('@src/pages/list/search'))
-const ListInquire = lazy(() => import('@src/pages/list/inquire'))
 const ListStandard = lazy(() => import('@src/pages/list/standard'))
-const ListCard = lazy(() => import('@src/pages/list/card'))
 
 const DetailBasic = lazy(() => import('@src/pages/detail/basic'))
 const DetailAdvanced = lazy(() => import('@src/pages/detail/advanced'))
@@ -66,16 +64,8 @@ const routeList: RouteObject[] = [
 				element: <WrapperRouteComponent element={<ListSearch />} titleId="搜索列表页" auth />
 			},
 			{
-				path: 'list/inquire',
-				element: <WrapperRouteComponent element={<ListInquire />} titleId="查询表格页" auth />
-			},
-			{
 				path: 'list/standard',
 				element: <WrapperRouteComponent element={<ListStandard />} titleId="标准列表页" auth />
-			},
-			{
-				path: 'list/card',
-				element: <WrapperRouteComponent element={<ListCard />} titleId="卡片列表页" auth />
 			},
 			{
 				path: 'detail/basic',
