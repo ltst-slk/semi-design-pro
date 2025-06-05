@@ -18,7 +18,7 @@ module.exports = {
 		'import/no-anonymous-default-export': 0,
 		'react-hooks/exhaustive-deps': 0,
 		'no-mixed-spaces-and-tabs': 0,
-		'no-console': 2,
+		'no-console': 'off',
 		'no-empty': 0
 	}
 }
