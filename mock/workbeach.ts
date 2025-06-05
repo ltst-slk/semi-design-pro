@@ -91,20 +91,6 @@ const recentActivityData = [
 		action: '发布了',
 		project: '留言',
 		color: 'amber'
-	},
-	{
-		user: '赵大大',
-		group: '工程效能',
-		action: '发布了',
-		project: '留言',
-		color: 'red'
-	},
-	{
-		user: '李冰冰',
-		group: '工程效能',
-		action: '发布了',
-		project: '留言',
-		color: 'light-green'
 	}
 ]
 

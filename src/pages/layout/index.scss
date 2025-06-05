@@ -1,7 +1,8 @@
 .layout-page {
 	border: 1px solid var(--semi-color-border);
 	height: 100%;
-	background: #f0f2f5;
+	background-color: #f0f2f5;
+	border-radius: 10px;
 	.layout-content {
 		position: relative;
 		margin: 24px;
@@ -13,7 +14,7 @@
 		background-color: var(--semi-color-bg-1);
 		.semi-navigation-horizontal {
 			height: 50px;
-			border-bottom: 0px;
+			border-bottom: 0;
 		}
 	}
 	.semi-badge-rightTop {
@@ -21,7 +22,7 @@
 		top: 8px;
 		right: 20px;
 		transform: translate(50%, -50%);
-		transform-origin: 100% 0%;
+		transform-origin: 100% 0;
 	}
 	.semi-radio-addon-buttonRadio-checked {
 		font-weight: 600;

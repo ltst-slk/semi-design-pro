@@ -4,12 +4,14 @@ import { IllustrationNoAccess, IllustrationNoAccessDark } from '@douyinfe/semi-i
 
 const Index: React.FC = () => {
 	return (
-		<Empty
-			title={'403'}
-			image={<IllustrationNoAccess style={{ width: 400, height: 400 }} />}
-			darkModeImage={<IllustrationNoAccessDark style={{ width: 400, height: 400 }} />}
-			description="403 无权限访问"
-		></Empty>
+		<div className="default-container">
+			<Empty
+				title={'403'}
+				image={<IllustrationNoAccess style={{ width: 400, height: 400 }} />}
+				darkModeImage={<IllustrationNoAccessDark style={{ width: 400, height: 400 }} />}
+				description="403 无权限访问"
+			></Empty>
+		</div>
 	)
 }
 

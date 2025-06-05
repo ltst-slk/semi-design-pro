@@ -1,7 +1,8 @@
 English | [简体中文](./README.zh_CN.md)
 
-<h1 align="center">React Semi Admin</h1>
+# React Semi Design Pro
 
+# The original repository is located at https://github.com/xieyezi/semi-design-pro. I found this project while searching for related projects, and it had the highest completion level among similar ones. However, it seems that the author may have abandoned it for certain reasons. Therefore, I forked the repository and made modifications based on it.
 
 The best practices for React Hooks + Vite + Semi + Zustand + Typescript🚀.
 
@@ -24,7 +25,7 @@ developing...
 ## 📦 Install
 
 ```bash
-$ git clone https://github.com/xieyezi/semi-design-pro
+$ git clone https://github.com/ltst-slk/semi-design-pro
 $ cd semi-design-pro
 
 # yarn
@@ -61,5 +62,5 @@ Modern browsers and Internet Explorer 10+.
 We very much welcome your contribution, you can build together with us in the following ways 😃
 
 - Use Semi Admin in your daily work.
-- Submit [GitHub issues](https://github.com/xieyezi/semi-admin/issues) to report bugs or ask questions.
-- Propose [Pull Request](https://github.com/xieyezi/semi-admin/pulls) to improve our code.
+- Submit [GitHub issues](https://github.com/ltst-slk/semi-design-pro/issues) to report bugs or ask questions.
+- Propose [Pull Request](https://github.com/ltst-slk/semi-design-pro/pulls) to improve our code.
